@@ -1,0 +1,2 @@
+# Hadoop学习
+在电脑上搭建伪分布式系统，通过WordCount来学习Hadoop三大核心
